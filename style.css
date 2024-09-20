@@ -1,0 +1,11 @@
+.tittle > h1{
+    text-align: center;
+    font-size: 2rem;
+    margin: 0%;
+    padding: 0%;
+}
+
+.flag{
+    width: 150px;
+    height: 150px;
+}

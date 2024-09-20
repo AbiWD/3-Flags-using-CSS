@@ -1,0 +1,19 @@
+h1{
+    font-size: 3rem;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+.flag{
+    width: 900px;
+    height: 600px;
+    border: 2px solid black;
+    background-color: #a4343a;
+}
+.flag-middle{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    top: 40%;
+}
